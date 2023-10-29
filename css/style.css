@@ -103,7 +103,7 @@ a {text-decoration: none;
 }
 
 .badge--primary {
-    background: var(--color-primary)
+    background: var(--color-primary);
     color: #fff;
 }
 
